@@ -1,0 +1,1 @@
+Serena is an AI virtual therapist and mental welfare assistant. It utilizes environmental factors that impact individuals mental health, like polution, green index in their city, weather etc. in order to better help individuals with their mental health. This project is for the 9th Cassini Europe hackhaton.
